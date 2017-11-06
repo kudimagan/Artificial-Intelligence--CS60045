@@ -1,0 +1,2554 @@
+Note:- 
+Final goal is 1 2 3
+                      4 5 6
+                      7 8 0
+Time is in seconds
+5 heuristics were used, Manhattan,Manhattan least squares,linear,linear least squares and zero heuristic
+
+1)Initial state
+
+1 3 6
+5 2 8
+4 7 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000499963760376
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  30
+Time taken  0.00225901603699
+Linear heuristic
+
+No of nodes expanded is equal to  9
+Time taken  0.000468969345093
+Linear least squares heuristic
+
+No of nodes expanded is equal to  38
+Time taken  0.00272703170776
+Zero heuristic
+
+No of nodes expanded is equal to  164
+Time taken  0.0531871318817
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  30
+Time taken  0.000705003738403
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2055
+Time taken  0.0385868549347
+Linear heuristic
+
+No of nodes expanded is equal to  37
+Time taken  0.00056004524231
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2248
+Time taken  0.0346081256866
+Zero heuristic
+
+No of nodes expanded is equal to  7532
+Time taken  0.0437839031219
+
+2) Initial state
+
+2 3 6
+1 0 8
+4 5 7
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  25
+Time taken  0.00248408317566
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  93
+Time taken  0.0184981822968
+Linear heuristic
+
+No of nodes expanded is equal to  27
+Time taken  0.00139498710632
+Linear least squares heuristic
+
+No of nodes expanded is equal to  121
+Time taken  0.0151739120483
+Zero heuristic
+
+No of nodes expanded is equal to  783
+Time taken  0.434629917145
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  131
+Time taken  0.00136303901672
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  37418
+Time taken  0.452006101608
+Linear heuristic
+
+No of nodes expanded is equal to  480
+Time taken  0.00573086738586
+Linear least squares heuristic
+
+No of nodes expanded is equal to  34098
+Time taken  0.400573968887
+Zero heuristic
+
+No of nodes expanded is equal to  256653
+Time taken  1.23223185539
+
+3)Initial state
+
+4 1 2
+5 8 3
+0 7 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000786066055298
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  34
+Time taken  0.00347709655762
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000577926635742
+Linear least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.00646209716797
+Zero heuristic
+
+No of nodes expanded is equal to  235
+Time taken  0.0632910728455
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  59
+Time taken  0.000638961791992
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2263
+Time taken  0.0297501087189
+Linear heuristic
+
+No of nodes expanded is equal to  41
+Time taken  0.000523090362549
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2281
+Time taken  0.0315120220184
+Zero heuristic
+
+No of nodes expanded is equal to  14620
+Time taken  0.075777053833
+4)Initial state
+
+1 2 3
+7 4 8
+0 6 5
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000751972198486
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  25
+Time taken  0.00176000595093
+Linear heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.00104713439941
+Linear least squares heuristic
+
+No of nodes expanded is equal to  37
+Time taken  0.00349807739258
+Zero heuristic
+
+No of nodes expanded is equal to  199
+Time taken  0.0446720123291
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.0002760887146
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1172
+Time taken  0.0120739936829
+Linear heuristic
+
+No of nodes expanded is equal to  280
+Time taken  0.00417900085449
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2505
+Time taken  0.0342590808868
+Zero heuristic
+
+No of nodes expanded is equal to  12671
+Time taken  0.0661458969116
+
+5)Initial state
+
+0 1 5
+4 3 2
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.000813961029053
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  30
+Time taken  0.00195503234863
+Linear heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000830888748169
+Linear least squares heuristic
+
+No of nodes expanded is equal to  40
+Time taken  0.00315594673157
+Zero heuristic
+
+No of nodes expanded is equal to  244
+Time taken  0.0569410324097
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  39
+Time taken  0.000424146652222
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1679
+Time taken  0.0184509754181
+Linear heuristic
+
+No of nodes expanded is equal to  312
+Time taken  0.0070059299469
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2775
+Time taken  0.0332980155945
+Zero heuristic
+
+No of nodes expanded is equal to  17712
+Time taken  0.0935459136963
+
+6)Initial state
+
+1 2 3
+8 7 5
+0 4 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  19
+Time taken  0.00173687934875
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  30
+Time taken  0.00217390060425
+Linear heuristic
+
+No of nodes expanded is equal to  19
+Time taken  0.00146889686584
+Linear least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.00769114494324
+Zero heuristic
+
+No of nodes expanded is equal to  191
+Time taken  0.0468699932098
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  39
+Time taken  0.000810861587524
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2160
+Time taken  0.0245490074158
+Linear heuristic
+
+No of nodes expanded is equal to  281
+Time taken  0.00445199012756
+Linear least squares heuristic
+
+No of nodes expanded is equal to  3038
+Time taken  0.0358788967133
+Zero heuristic
+
+No of nodes expanded is equal to  12507
+Time taken  0.0644781589508
+
+7)Initial state
+
+1 2 3
+4 0 5
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000157117843628
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000116109848022
+Linear heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000118970870972
+Linear least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000104904174805
+Zero heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000343084335327
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000170946121216
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000104188919067
+Linear heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000166893005371
+Linear least squares heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000191926956177
+Zero heuristic
+
+No of nodes expanded is equal to  66
+Time taken  0.00039005279541
+
+8)Initial state
+
+1 2 3
+8 7 5
+4 6 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000702142715454
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  27
+Time taken  0.00204515457153
+Linear heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.00133299827576
+Linear least squares heuristic
+
+No of nodes expanded is equal to  39
+Time taken  0.00468397140503
+Zero heuristic
+
+No of nodes expanded is equal to  239
+Time taken  0.0643649101257
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  51
+Time taken  0.000594139099121
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1646
+Time taken  0.0200128555298
+Linear heuristic
+
+No of nodes expanded is equal to  165
+Time taken  0.00596594810486
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2995
+Time taken  0.0362207889557
+Zero heuristic
+
+No of nodes expanded is equal to  14771
+Time taken  0.0732700824738
+
+9)Initial state
+
+2 3 0
+1 5 6
+4 7 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000482082366943
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000838994979858
+Linear heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000283002853394
+Linear least squares heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.000947952270508
+Zero heuristic
+
+No of nodes expanded is equal to  53
+Time taken  0.00490403175354
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  24
+Time taken  0.00205707550049
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  185
+Time taken  0.00271391868591
+Linear heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.000306129455566
+Linear least squares heuristic
+
+No of nodes expanded is equal to  190
+Time taken  0.00272107124329
+Zero heuristic
+
+No of nodes expanded is equal to  941
+Time taken  0.00712394714355
+
+10)Initial state
+
+0 1 2
+4 6 3
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.00043797492981
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000753879547119
+Linear heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000431776046753
+Linear least squares heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.00122690200806
+Zero heuristic
+
+No of nodes expanded is equal to  88
+Time taken  0.0127999782562
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  27
+Time taken  0.00044584274292
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  160
+Time taken  0.00293302536011
+Linear heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.000259160995483
+Linear least squares heuristic
+
+No of nodes expanded is equal to  313
+Time taken  0.00456380844116
+Zero heuristic
+
+No of nodes expanded is equal to  2459
+Time taken  0.0170729160309
+
+11)Initial state
+
+1 6 2
+5 0 3
+4 7 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.000953912734985
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  38
+Time taken  0.00321507453918
+Linear heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.00133681297302
+Linear least squares heuristic
+
+No of nodes expanded is equal to  52
+Time taken  0.00793600082397
+Zero heuristic
+
+No of nodes expanded is equal to  225
+Time taken  0.0578060150146
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.000345945358276
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5023
+Time taken  0.0650069713593
+Linear heuristic
+
+No of nodes expanded is equal to  57
+Time taken  0.000694990158081
+Linear least squares heuristic
+
+No of nodes expanded is equal to  5099
+Time taken  0.0604541301727
+Zero heuristic
+
+No of nodes expanded is equal to  20340
+Time taken  0.0950808525085
+
+12)Initial state
+
+1 3 5
+8 2 6
+4 7 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.00106883049011
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  67
+Time taken  0.0106091499329
+Linear heuristic
+
+No of nodes expanded is equal to  19
+Time taken  0.00321197509766
+Linear least squares heuristic
+
+No of nodes expanded is equal to  94
+Time taken  0.0202379226685
+Zero heuristic
+
+No of nodes expanded is equal to  450
+Time taken  0.165257930756
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  50
+Time taken  0.00055718421936
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  13076
+Time taken  0.144115209579
+Linear heuristic
+
+No of nodes expanded is equal to  343
+Time taken  0.00383996963501
+Linear least squares heuristic
+
+No of nodes expanded is equal to  19692
+Time taken  0.209586858749
+Zero heuristic
+
+No of nodes expanded is equal to  60266
+Time taken  0.310856103897
+
+13)Initial state
+
+1 2 3
+5 6 8
+4 7 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000370025634766
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000688076019287
+Linear heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.00038480758667
+Linear least squares heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.000849962234497
+Zero heuristic
+
+No of nodes expanded is equal to  67
+Time taken  0.00774002075195
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  30
+Time taken  0.000812768936157
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  209
+Time taken  0.00687885284424
+Linear heuristic
+
+No of nodes expanded is equal to  30
+Time taken  0.000602960586548
+Linear least squares heuristic
+
+No of nodes expanded is equal to  336
+Time taken  0.00615501403809
+Zero heuristic
+
+No of nodes expanded is equal to  1242
+Time taken  0.0103890895844
+
+14)Initial state
+
+0 2 3
+1 4 5
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000333070755005
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000320911407471
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000391960144043
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000406980514526
+Zero heuristic
+
+No of nodes expanded is equal to  23
+Time taken  0.00111103057861
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.000397920608521
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000247001647949
+Linear heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.00019097328186
+Linear least squares heuristic
+
+No of nodes expanded is equal to  39
+Time taken  0.000618934631348
+Zero heuristic
+
+No of nodes expanded is equal to  204
+Time taken  0.00137495994568
+
+15)Initial state
+
+0 1 2
+7 5 3
+8 4 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  25
+Time taken  0.00158500671387
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  69
+Time taken  0.00828003883362
+Linear heuristic
+
+No of nodes expanded is equal to  26
+Time taken  0.00451493263245
+Linear least squares heuristic
+
+No of nodes expanded is equal to  98
+Time taken  0.0203580856323
+Zero heuristic
+
+No of nodes expanded is equal to  603
+Time taken  0.266933917999
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  103
+Time taken  0.00103402137756
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  21077
+Time taken  0.220734119415
+Linear heuristic
+
+No of nodes expanded is equal to  994
+Time taken  0.0135061740875
+Linear least squares heuristic
+
+No of nodes expanded is equal to  24085
+Time taken  0.272016048431
+Zero heuristic
+
+No of nodes expanded is equal to  138458
+Time taken  0.648401975632
+
+16)Initial state
+
+2 3 6
+1 4 8
+7 5 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.00079083442688
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  29
+Time taken  0.00238299369812
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.00057315826416
+Linear least squares heuristic
+
+No of nodes expanded is equal to  36
+Time taken  0.00326704978943
+Zero heuristic
+
+No of nodes expanded is equal to  158
+Time taken  0.0364019870758
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  62
+Time taken  0.000920057296753
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2243
+Time taken  0.0378510951996
+Linear heuristic
+
+No of nodes expanded is equal to  71
+Time taken  0.00105285644531
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2366
+Time taken  0.0302209854126
+Zero heuristic
+
+No of nodes expanded is equal to  7268
+Time taken  0.0396451950073
+
+17)Initial state
+
+1 2 3
+5 0 6
+4 7 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000283002853394
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000406980514526
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000278949737549
+Linear least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000473022460938
+Zero heuristic
+
+No of nodes expanded is equal to  29
+Time taken  0.00191402435303
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000272989273071
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.000697135925293
+Linear heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000257015228271
+Linear least squares heuristic
+
+No of nodes expanded is equal to  76
+Time taken  0.00168204307556
+Zero heuristic
+
+No of nodes expanded is equal to  361
+Time taken  0.0046238899231
+
+18)Initial state
+
+4 1 3
+7 2 6
+5 8 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000717163085938
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  31
+Time taken  0.00262904167175
+Linear heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.0010039806366
+Linear least squares heuristic
+
+No of nodes expanded is equal to  38
+Time taken  0.00318598747253
+Zero heuristic
+
+No of nodes expanded is equal to  254
+Time taken  0.0743930339813
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  134
+Time taken  0.00169587135315
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2187
+Time taken  0.0298461914062
+Linear heuristic
+
+No of nodes expanded is equal to  91
+Time taken  0.00171113014221
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2891
+Time taken  0.0352561473846
+Zero heuristic
+
+No of nodes expanded is equal to  16996
+Time taken  0.0916600227356
+
+19)Initial state
+
+0 2 8
+1 5 3
+4 7 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  60
+Time taken  0.0074200630188
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  169
+Time taken  0.0387830734253
+Linear heuristic
+
+No of nodes expanded is equal to  63
+Time taken  0.00627493858337
+Linear least squares heuristic
+
+No of nodes expanded is equal to  250
+Time taken  0.0666570663452
+Zero heuristic
+
+No of nodes expanded is equal to  1731
+Time taken  2.03566813469
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  3848
+Time taken  0.0520470142365
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  143194
+Time taken  1.47774195671
+Linear heuristic
+
+No of nodes expanded is equal to  21068
+Time taken  0.253118991852
+Linear least squares heuristic
+
+No of nodes expanded is equal to  184296
+Time taken  1.76383900642
+Zero heuristic
+
+No of nodes expanded is equal to  1245690
+Time taken  5.41809391975
+
+20)Initial state
+
+0 1 3
+4 2 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000278949737549
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000499963760376
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000432968139648
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000224113464355
+Zero heuristic
+
+No of nodes expanded is equal to  27
+Time taken  0.00151515007019
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000988960266113
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000166893005371
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000170946121216
+Linear least squares heuristic
+
+No of nodes expanded is equal to  41
+Time taken  0.000552892684937
+Zero heuristic
+
+No of nodes expanded is equal to  267
+Time taken  0.00148105621338
+
+21)Initial state
+
+1 5 2
+4 0 3
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000370979309082
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000403165817261
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.00028395652771
+Linear least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000532150268555
+Zero heuristic
+
+No of nodes expanded is equal to  25
+Time taken  0.00100994110107
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000214815139771
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.000808954238892
+Linear heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000293016433716
+Linear least squares heuristic
+
+No of nodes expanded is equal to  73
+Time taken  0.00115990638733
+Zero heuristic
+
+No of nodes expanded is equal to  310
+Time taken  0.00196313858032
+
+22)Initial state
+
+0 4 3
+2 1 5
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  24
+Time taken  0.00214409828186
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  36
+Time taken  0.00311303138733
+Linear heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.00171899795532
+Linear least squares heuristic
+
+No of nodes expanded is equal to  43
+Time taken  0.00717306137085
+Zero heuristic
+
+No of nodes expanded is equal to  177
+Time taken  0.0415320396423
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  25
+Time taken  0.000481843948364
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1918
+Time taken  0.0252130031586
+Linear heuristic
+
+No of nodes expanded is equal to  121
+Time taken  0.00186491012573
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2527
+Time taken  0.0407309532166
+Zero heuristic
+
+No of nodes expanded is equal to  10498
+Time taken  0.0619950294495
+
+23)Initial state
+
+1 3 0
+4 2 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000398874282837
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000421047210693
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000355005264282
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000269889831543
+Zero heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.00100803375244
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000279903411865
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000478029251099
+Linear heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000245094299316
+Linear least squares heuristic
+
+No of nodes expanded is equal to  36
+Time taken  0.000653982162476
+Zero heuristic
+
+No of nodes expanded is equal to  167
+Time taken  0.00111794471741
+
+24)Initial state
+
+2 6 3
+1 0 7
+4 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  151
+Time taken  0.0397570133209
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  517
+Time taken  0.222134113312
+Linear heuristic
+
+No of nodes expanded is equal to  176
+Time taken  0.0416531562805
+Linear least squares heuristic
+
+No of nodes expanded is equal to  760
+Time taken  0.490581989288
+Zero heuristic
+
+No of nodes expanded is equal to  5800
+Time taken  22.9796071053
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  22837
+Time taken  0.226979970932
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2223025
+Time taken  23.3228189945
+Linear heuristic
+
+No of nodes expanded is equal to  263195
+Time taken  3.36145305634
+Linear least squares heuristic
+
+No of nodes expanded is equal to  3258162
+Time taken  36.6215429306
+Zero heuristic
+
+No of nodes expanded is equal to  20134636
+Time taken  109.980210066
+
+25)Initial state
+
+4 3 0
+2 1 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.00100302696228
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  32
+Time taken  0.00286912918091
+Linear heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000833988189697
+Linear least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.0102858543396
+Zero heuristic
+
+No of nodes expanded is equal to  173
+Time taken  0.0714199542999
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  55
+Time taken  0.00075888633728
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1611
+Time taken  0.0309009552002
+Linear heuristic
+
+No of nodes expanded is equal to  120
+Time taken  0.00245404243469
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2676
+Time taken  0.0510559082031
+Zero heuristic
+
+No of nodes expanded is equal to  9756
+Time taken  0.0932369232178
+
+26)Initial state
+
+0 1 3
+4 2 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000358104705811
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.00034499168396
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000324964523315
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000271081924438
+Zero heuristic
+
+No of nodes expanded is equal to  27
+Time taken  0.00146698951721
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000328063964844
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000238180160522
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000211000442505
+Linear least squares heuristic
+
+No of nodes expanded is equal to  41
+Time taken  0.00081992149353
+Zero heuristic
+
+No of nodes expanded is equal to  267
+Time taken  0.00693321228027
+
+27)Initial state
+
+3 5 2
+1 4 6
+7 8 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  69
+Time taken  0.017970085144
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  182
+Time taken  0.0613269805908
+Linear heuristic
+
+No of nodes expanded is equal to  64
+Time taken  0.00673413276672
+Linear least squares heuristic
+
+No of nodes expanded is equal to  248
+Time taken  0.0864689350128
+Zero heuristic
+
+No of nodes expanded is equal to  1151
+Time taken  1.17166399956
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  1827
+Time taken  0.0238239765167
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  192380
+Time taken  2.28389906883
+Linear heuristic
+
+No of nodes expanded is equal to  15466
+Time taken  0.208657026291
+Linear least squares heuristic
+
+No of nodes expanded is equal to  159416
+Time taken  1.80844402313
+Zero heuristic
+
+No of nodes expanded is equal to  465785
+Time taken  2.56163907051
+
+28)Initial state
+
+2 5 3
+1 6 8
+4 7 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000821828842163
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  31
+Time taken  0.00257802009583
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.0011088848114
+Linear least squares heuristic
+
+No of nodes expanded is equal to  36
+Time taken  0.010687828064
+Zero heuristic
+
+No of nodes expanded is equal to  173
+Time taken  0.0496220588684
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  79
+Time taken  0.000997066497803
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  2276
+Time taken  0.0325689315796
+Linear heuristic
+
+No of nodes expanded is equal to  64
+Time taken  0.000936985015869
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2653
+Time taken  0.0407631397247
+Zero heuristic
+
+No of nodes expanded is equal to  8840
+Time taken  0.0515148639679
+
+29)Initial state
+
+0 2 3
+1 4 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000351905822754
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000319004058838
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000358104705811
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000466108322144
+Zero heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.00179982185364
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000437021255493
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000335931777954
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.0010838508606
+Linear least squares heuristic
+
+No of nodes expanded is equal to  38
+Time taken  0.00272989273071
+Zero heuristic
+
+No of nodes expanded is equal to  192
+Time taken  0.00256085395813
+
+30)Initial state
+
+0 1 2
+4 5 3
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000195980072021
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000281095504761
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000272989273071
+Linear least squares heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000370025634766
+Zero heuristic
+
+No of nodes expanded is equal to  31
+Time taken  0.00212502479553
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.000314950942993
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.00025200843811
+Linear heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000327110290527
+Linear least squares heuristic
+
+No of nodes expanded is equal to  32
+Time taken  0.000473022460938
+Zero heuristic
+
+No of nodes expanded is equal to  304
+Time taken  0.0047709941864
+
+31)Initial state
+
+2 3 6
+1 0 4
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.00105285644531
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  37
+Time taken  0.00444507598877
+Linear heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.00334095954895
+Linear least squares heuristic
+
+No of nodes expanded is equal to  44
+Time taken  0.00600409507751
+Zero heuristic
+
+No of nodes expanded is equal to  311
+Time taken  0.103846073151
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  114
+Time taken  0.00289511680603
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5980
+Time taken  0.0890469551086
+Linear heuristic
+
+No of nodes expanded is equal to  102
+Time taken  0.00137305259705
+Linear least squares heuristic
+
+No of nodes expanded is equal to  5304
+Time taken  0.074324131012
+Zero heuristic
+
+No of nodes expanded is equal to  33754
+Time taken  0.185260772705
+
+32)Initial state
+
+0 5 2
+1 4 3
+7 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000626087188721
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  17
+Time taken  0.00129890441895
+Linear heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000503063201904
+Linear least squares heuristic
+
+No of nodes expanded is equal to  20
+Time taken  0.00129890441895
+Zero heuristic
+
+No of nodes expanded is equal to  63
+Time taken  0.0123760700226
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  22
+Time taken  0.000409841537476
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  191
+Time taken  0.00414299964905
+Linear heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000289916992188
+Linear least squares heuristic
+
+No of nodes expanded is equal to  291
+Time taken  0.00854182243347
+Zero heuristic
+
+No of nodes expanded is equal to  1392
+Time taken  0.00972414016724
+
+33)Initial state
+
+1 2 3
+5 0 6
+4 7 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000246047973633
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000711917877197
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000385999679565
+Linear least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000845193862915
+Zero heuristic
+
+No of nodes expanded is equal to  29
+Time taken  0.00301218032837
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000477075576782
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.00378918647766
+Linear heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.00103306770325
+Linear least squares heuristic
+
+No of nodes expanded is equal to  76
+Time taken  0.00200915336609
+Zero heuristic
+
+No of nodes expanded is equal to  361
+Time taken  0.00247192382812
+
+34)Initial state
+
+6 4 2
+1 0 3
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.00136208534241
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  77
+Time taken  0.0184428691864
+Linear heuristic
+
+No of nodes expanded is equal to  29
+Time taken  0.00291013717651
+Linear least squares heuristic
+
+No of nodes expanded is equal to  111
+Time taken  0.0314059257507
+Zero heuristic
+
+No of nodes expanded is equal to  562
+Time taken  0.291285991669
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  78
+Time taken  0.000954151153564
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  21663
+Time taken  0.282421112061
+Linear heuristic
+
+No of nodes expanded is equal to  750
+Time taken  0.00955104827881
+Linear least squares heuristic
+
+No of nodes expanded is equal to  32195
+Time taken  0.391288042068
+Zero heuristic
+
+No of nodes expanded is equal to  118983
+Time taken  0.621143817902
+
+35)Initial state
+
+1 2 3
+5 0 7
+4 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  18
+Time taken  0.0011739730835
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  39
+Time taken  0.0088939666748
+Linear heuristic
+
+No of nodes expanded is equal to  19
+Time taken  0.00303411483765
+Linear least squares heuristic
+
+No of nodes expanded is equal to  50
+Time taken  0.00661301612854
+Zero heuristic
+
+No of nodes expanded is equal to  327
+Time taken  0.141124010086
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  327
+Time taken  0.00367498397827
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5645
+Time taken  0.0803370475769
+Linear heuristic
+
+No of nodes expanded is equal to  920
+Time taken  0.0102610588074
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6750
+Time taken  0.0955629348755
+Zero heuristic
+
+No of nodes expanded is equal to  39447
+Time taken  0.224781990051
+
+36)Initial state
+
+1 2 3
+4 0 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000232934951782
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000166893005371
+Linear heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000166893005371
+Linear least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000152111053467
+Zero heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000324964523315
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.00011420249939
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000128030776978
+Linear heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000231981277466
+Linear least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000174045562744
+Zero heuristic
+
+No of nodes expanded is equal to  54
+Time taken  0.000416040420532
+
+37)Initial state
+
+2 3 0
+1 4 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000352144241333
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.00118112564087
+Linear heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000509977340698
+Linear least squares heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.00101709365845
+Zero heuristic
+
+No of nodes expanded is equal to  57
+Time taken  0.00617504119873
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  28
+Time taken  0.00203895568848
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  206
+Time taken  0.00417995452881
+Linear heuristic
+
+No of nodes expanded is equal to  19
+Time taken  0.000571966171265
+Linear least squares heuristic
+
+No of nodes expanded is equal to  272
+Time taken  0.00481700897217
+Zero heuristic
+
+No of nodes expanded is equal to  978
+Time taken  0.0117361545563
+
+38)Initial state
+
+1 2 3
+4 0 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000149011611938
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000113010406494
+Linear heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000118970870972
+Linear least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000105142593384
+Zero heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000289916992188
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000115871429443
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000128984451294
+Linear heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000117778778076
+Linear least squares heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.0002121925354
+Zero heuristic
+
+No of nodes expanded is equal to  54
+Time taken  0.000324010848999
+
+39)Initial state
+
+1 2 3
+4 5 6
+0 7 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.0001060962677
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  9.3936920166e-05
+Linear heuristic
+
+No of nodes expanded is equal to  3
+Time taken  0.000113964080811
+Linear least squares heuristic
+
+No of nodes expanded is equal to  3
+Time taken  8.58306884766e-05
+Zero heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000174045562744
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000126838684082
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  9.98973846436e-05
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000108003616333
+Linear least squares heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000142812728882
+Zero heuristic
+
+No of nodes expanded is equal to  32
+Time taken  0.000216007232666
+
+40)Initial state
+
+2 4 3
+7 1 6
+0 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.00122904777527
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  31
+Time taken  0.00282502174377
+Linear heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000827789306641
+Linear least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.00845408439636
+Zero heuristic
+
+No of nodes expanded is equal to  175
+Time taken  0.0417499542236
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  61
+Time taken  0.00100612640381
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1772
+Time taken  0.0227379798889
+Linear heuristic
+
+No of nodes expanded is equal to  103
+Time taken  0.00132298469543
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2820
+Time taken  0.0354540348053
+Zero heuristic
+
+No of nodes expanded is equal to  10486
+Time taken  0.0629398822784
+
+41)Initial state
+
+1 2 3
+5 7 6
+0 4 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  9
+Time taken  0.000411033630371
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000927925109863
+Linear heuristic
+
+No of nodes expanded is equal to  9
+Time taken  0.000448942184448
+Linear least squares heuristic
+
+No of nodes expanded is equal to  18
+Time taken  0.00111794471741
+Zero heuristic
+
+No of nodes expanded is equal to  78
+Time taken  0.00893306732178
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  23
+Time taken  0.00138401985168
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  213
+Time taken  0.00611305236816
+Linear heuristic
+
+No of nodes expanded is equal to  48
+Time taken  0.00075888633728
+Linear least squares heuristic
+
+No of nodes expanded is equal to  347
+Time taken  0.00626182556152
+Zero heuristic
+
+No of nodes expanded is equal to  1845
+Time taken  0.0119550228119
+
+42)Initial state
+
+1 2 3
+4 0 8
+7 6 5
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  10
+Time taken  0.000491142272949
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000826120376587
+Linear heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000671863555908
+Linear least squares heuristic
+
+No of nodes expanded is equal to  19
+Time taken  0.00118708610535
+Zero heuristic
+
+No of nodes expanded is equal to  115
+Time taken  0.0197989940643
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  15
+Time taken  0.000277996063232
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  392
+Time taken  0.00818204879761
+Linear heuristic
+
+No of nodes expanded is equal to  143
+Time taken  0.00159788131714
+Linear least squares heuristic
+
+No of nodes expanded is equal to  544
+Time taken  0.00527906417847
+Zero heuristic
+
+No of nodes expanded is equal to  4053
+Time taken  0.0262470245361
+
+43)Initial state
+
+1 2 3
+7 4 6
+0 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000239849090576
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000305891036987
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000245094299316
+Linear least squares heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000423908233643
+Zero heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.00098991394043
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000323057174683
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  24
+Time taken  0.000483989715576
+Linear heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000262975692749
+Linear least squares heuristic
+
+No of nodes expanded is equal to  39
+Time taken  0.00059986114502
+Zero heuristic
+
+No of nodes expanded is equal to  192
+Time taken  0.00135397911072
+
+44)Initial state
+
+1 2 3
+4 5 6
+7 8 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  1
+Time taken  9.05990600586e-06
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1
+Time taken  6.19888305664e-06
+Linear heuristic
+
+No of nodes expanded is equal to  1
+Time taken  2.86102294922e-06
+Linear least squares heuristic
+
+No of nodes expanded is equal to  1
+Time taken  1.90734863281e-06
+Zero heuristic
+
+No of nodes expanded is equal to  1
+Time taken  1.90734863281e-06
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  0
+Time taken  4.2200088501e-05
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  0
+Time taken  4.10079956055e-05
+Linear heuristic
+
+No of nodes expanded is equal to  0
+Time taken  2.09808349609e-05
+Linear least squares heuristic
+
+No of nodes expanded is equal to  0
+Time taken  3.81469726562e-05
+Zero heuristic
+
+No of nodes expanded is equal to  0
+Time taken  2.59876251221e-05
+
+45)Initial state
+
+4 1 3
+2 0 6
+7 5 8
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  12
+Time taken  0.000640869140625
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  18
+Time taken  0.00102591514587
+Linear heuristic
+
+No of nodes expanded is equal to  9
+Time taken  0.000543117523193
+Linear least squares heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.0011088848114
+Zero heuristic
+
+No of nodes expanded is equal to  88
+Time taken  0.0125501155853
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  51
+Time taken  0.000731945037842
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  524
+Time taken  0.00794291496277
+Linear heuristic
+
+No of nodes expanded is equal to  34
+Time taken  0.000799179077148
+Linear least squares heuristic
+
+No of nodes expanded is equal to  648
+Time taken  0.0112869739532
+Zero heuristic
+
+No of nodes expanded is equal to  2747
+Time taken  0.0134310722351
+
+46)Initial state
+
+1 2 3
+7 4 5
+0 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000365972518921
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000441789627075
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000400066375732
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000418186187744
+Zero heuristic
+
+No of nodes expanded is equal to  23
+Time taken  0.00105094909668
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000334978103638
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  18
+Time taken  0.000343084335327
+Linear heuristic
+
+No of nodes expanded is equal to  13
+Time taken  0.000285863876343
+Linear least squares heuristic
+
+No of nodes expanded is equal to  38
+Time taken  0.00060510635376
+Zero heuristic
+
+No of nodes expanded is equal to  204
+Time taken  0.00137710571289
+
+47)Initial state
+
+2 4 3
+7 1 5
+0 8 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.00102305412292
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  32
+Time taken  0.00299000740051
+Linear heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.00149893760681
+Linear least squares heuristic
+
+No of nodes expanded is equal to  42
+Time taken  0.00618004798889
+Zero heuristic
+
+No of nodes expanded is equal to  177
+Time taken  0.0431008338928
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  60
+Time taken  0.00095796585083
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  1621
+Time taken  0.0247449874878
+Linear heuristic
+
+No of nodes expanded is equal to  121
+Time taken  0.00177001953125
+Linear least squares heuristic
+
+No of nodes expanded is equal to  2696
+Time taken  0.0442290306091
+Zero heuristic
+
+No of nodes expanded is equal to  10498
+Time taken  0.0589220523834
+48)Initial state
+
+1 2 3
+4 6 8
+7 5 0
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000247955322266
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000273942947388
+Linear heuristic
+
+No of nodes expanded is equal to  5
+Time taken  0.000377893447876
+Linear least squares heuristic
+
+No of nodes expanded is equal to  6
+Time taken  0.000420093536377
+Zero heuristic
+
+No of nodes expanded is equal to  23
+Time taken  0.00130987167358
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000288009643555
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  24
+Time taken  0.000372886657715
+Linear heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.000409841537476
+Linear least squares heuristic
+
+No of nodes expanded is equal to  40
+Time taken  0.00091814994812
+Zero heuristic
+
+No of nodes expanded is equal to  167
+Time taken  0.00141406059265
+
+49)Initial state
+
+1 2 3
+7 0 5
+8 4 6
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000590085983276
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  16
+Time taken  0.00131893157959
+Linear heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.000802993774414
+Linear least squares heuristic
+
+No of nodes expanded is equal to  21
+Time taken  0.00125908851624
+Zero heuristic
+
+No of nodes expanded is equal to  107
+Time taken  0.0171349048615
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  35
+Time taken  0.000514030456543
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  570
+Time taken  0.00862097740173
+Linear heuristic
+
+No of nodes expanded is equal to  67
+Time taken  0.00137186050415
+Linear least squares heuristic
+
+No of nodes expanded is equal to  689
+Time taken  0.0116438865662
+Zero heuristic
+
+No of nodes expanded is equal to  3889
+Time taken  0.0192120075226
+
+50)Initial state
+
+1 2 3
+4 6 8
+0 7 5
+
+A* Search
+__ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  7
+Time taken  0.000296115875244
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  11
+Time taken  0.00056004524231
+Linear heuristic
+
+No of nodes expanded is equal to  8
+Time taken  0.000565052032471
+Linear least squares heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000779867172241
+Zero heuristic
+
+No of nodes expanded is equal to  90
+Time taken  0.0129959583282
+IDA* search
+____ ______
+Manhattan heuristic
+
+No of nodes expanded is equal to  14
+Time taken  0.000344038009644
+Manhattan least squares heuristic
+
+No of nodes expanded is equal to  200
+Time taken  0.00305008888245
+Linear heuristic
+
+No of nodes expanded is equal to  50
+Time taken  0.00126099586487
+Linear least squares heuristic
+
+No of nodes expanded is equal to  325
+Time taken  0.00607204437256
+Zero heuristic
+
+No of nodes expanded is equal to  2359
+Time taken  0.0160729885101
